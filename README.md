@@ -1,7 +1,7 @@
 ## Olá, eu sou o Kaio!!✌😎
 <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=KaiooLopes&theme=dark"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioLopes&langs_count=3&layout=compact&langs_count=7&theme=dark"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioLopes&langs_count=3&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 ###
