@@ -1,15 +1,14 @@
 <h1> Olá, eu sou o Kaio!!✌😎 </h1>
-<a href="https://github.com/KaiooLopes"><img align="center" height="180rem"
-        src="https://cdn.discordapp.com/attachments/801799991567319071/1018758902529138718/ezgif.com-gif-maker.gif"
-        /></a></a>
-<h2>
 <div style="display:flex">
-    <img height="140rem" style="padding-right: 10px;"
+    <img height="140rem" style="padding-right: 10px;" width="50%"
         src="https://github-readme-stats.vercel.app/api/wakatime?username=KaiooLopes&theme=dark"/>
-    <img height="140rem"
+    <img height="140rem" width="49%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioLopes&layout=compact&langs_count=10&theme=dark"/>
 </div>
-</h2>
+
+<a href="https://github.com/KaiooLopes"><img align="right" height="180rem"
+        src="https://cdn.discordapp.com/attachments/801799991567319071/1018758902529138718/ezgif.com-gif-maker.gif"/>
+</a>
 
 <div style="display:flex; flex-direction:column">
 
