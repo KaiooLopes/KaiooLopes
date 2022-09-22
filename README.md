@@ -1,9 +1,9 @@
 <h1> Olá, eu sou o Kaio!!✌😎 </h1>
 <div style="display:flex">
-    <img height="140rem"" width="49%"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=KaiooLopes&theme=dark"/>
+    <img height="140rem"" width="50%"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=KaiooLopes"/>
     <img height="140rem" width="49%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioLopes&layout=compact&langs_count=10&theme=dark"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiooLopes&layout=compact"/>
 </div>
 
 <a href="https://github.com/KaiooLopes"><img align="right" height="180rem"
