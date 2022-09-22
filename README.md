@@ -1,6 +1,6 @@
 <h1> Olá, eu sou o Kaio!!✌😎 </h1>
 <div style="display:flex">
-    <img height="140rem" style="padding-right: 10px;" width="50%"
+    <img height="140rem"" width="49%"
         src="https://github-readme-stats.vercel.app/api/wakatime?username=KaiooLopes&theme=dark"/>
     <img height="140rem" width="49%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioLopes&layout=compact&langs_count=10&theme=dark"/>
