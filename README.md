@@ -1,8 +1,4 @@
 <h1> Olá, eu sou o Kaio!!✌😎 </h1>
-<div style="display:flex">
-    <img align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiooLopes&layout=compact"/>
-</div>
 
 <a href="https://github.com/KaiooLopes"><img align="right" height="180rem"
         src="https://cdn.discordapp.com/attachments/801799991567319071/1018758902529138718/ezgif.com-gif-maker.gif"/>
