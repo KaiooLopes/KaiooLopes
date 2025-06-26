@@ -36,8 +36,8 @@ Além das habilidades técnicas, desenvolvi competências importantes como **com
 
 ## 📫 Onde me encontrar
 - 💼 [LinkedIn](www.linkedin.com/in/kaio-alves-lopes-3a1057245)  
-- 🌐 [Meu Portfólio]([https://seusite.com](https://kaioportfolio.netlify.app/))  
-- 📧 kaio.loopes18@gmail.com.com  
+- 🌐 [Meu Portfólio](https://kaioportfolio.netlify.app)  
+- 📧 kaio.loopes18@gmail.com
 
 ---
 
