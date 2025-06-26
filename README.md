@@ -1,48 +1,43 @@
-<h1> Olá, eu sou o Kaio!!✌😎 </h1>
+# 👋 Olá, eu sou o Kaio!
 
-<a href="https://github.com/KaiooLopes"><img align="right" height="180rem"
-        src="https://cdn.discordapp.com/attachments/801799991567319071/1018758902529138718/ezgif.com-gif-maker.gif"/>
-</a>
+Tenho mais de dois anos de experiência prática no desenvolvimento de software, sempre guiado pela curiosidade e pela busca por soluções criativas e funcionais. Estou em constante aprendizado e procuro aplicar a tecnologia de forma cada vez mais inteligente e eficiente.
 
-<div style="display:flex; flex-direction:column">
+🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas**, onde venho aprofundando meus conhecimentos em desenvolvimento full stack. Tenho experiência com tecnologias como JavaScript, React, React Native, Python, PHP, PostgreSQL e Docker, além de ferramentas como **n8n** para automações e integração de fluxos com foco em produtividade e aplicações em inteligência artificial.
 
-<h2>Tecnologias que atualmente uso:</h2>
+Além das habilidades técnicas, desenvolvi competências importantes como **comunicação clara, trabalho em equipe, autogerenciamento** e **organização de projetos**, sempre com foco em qualidade e agilidade.
 
-<a href="https://github.com/KaiooLopes"/>
-        <img align="center" alt="kaio-html" height="50" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-            />
-        <img align="center" alt="kaio-css" height="50" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-            />
-        <img align="center" alt="kaio-js" height="50" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-            />
-        <img align="center" alt="kaio-ts" height="50" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-            />
-        <img align="center" alt="kaio-git" height="50" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-            />
-        <img align="center" alt="kaio-react" height="50" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-            />
-</a>
+🚀 Estou sempre em busca de novos desafios, aprendizados e oportunidades para construir soluções que gerem valor e contribuam com a sociedade.
 
-</div>
+---
 
-<div>
+## 🛠️ Tecnologias & Ferramentas
 
-<h2>Contatos:</h2>
+<div align="center">
 
-<a href="mailto:kaio.loopes18@gmail.com" target="_blank"><img
-            height="28"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/kaio_al1/" target="_blank"><img
-            height="28"
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kaio-alves-lopes-3a1057245/"
-        target="_blank"><img height="28"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!-- Linguagens -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+<!-- Banco de dados -->
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<!-- DevOps -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<!-- Automação -->
+<img src="https://img.shields.io/badge/n8n-FE8040?style=for-the-badge&logo=n8n&logoColor=white" />
 
 </div>
+
+---
+
+## 📫 Onde me encontrar
+- 💼 [LinkedIn](www.linkedin.com/in/kaio-alves-lopes-3a1057245)  
+- 🌐 [Meu Portfólio]([https://seusite.com](https://kaioportfolio.netlify.app/))  
+- 📧 kaio.loopes18@gmail.com.com  
+
+---
+
